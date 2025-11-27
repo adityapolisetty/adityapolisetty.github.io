@@ -24,8 +24,8 @@ Teaching
 
 Education
 ------
-- PhD in Financial Economics, Imperial College London (ongoing)
-- MSc in Economics, University of Warwick, 2019
-- Chartered Accountant, May 2016
-- Bachelor of Commerce, Osmania University, 2015
+- PhD in Financial Economics, Imperial College London, UK (*ongoing*)
+- MSc in Economics, University of Warwick, UK, 2019
+- Chartered Accountant, India, 2016
+- Bachelor of Commerce, Osmania University, India, 2015
 
