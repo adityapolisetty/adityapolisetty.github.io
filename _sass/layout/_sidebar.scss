@@ -177,11 +177,8 @@
   }
 
   button {
+    display: none;
     margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
   }
 }
 
