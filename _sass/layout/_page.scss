@@ -56,7 +56,7 @@
   }
 
   p, li, dl {
-    font-size: 1.1em;
+    font-size: 1em;
   }
 
   /* paragraph indents */
@@ -109,6 +109,13 @@
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+}
+
+/* About page specific styles */
+.about-page .page__content {
+  p, li, dl {
+    font-size: 1.05em;
   }
 }
 
