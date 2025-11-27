@@ -226,13 +226,20 @@
     }
 
     #theme-toggle {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 1000;
+
       a {
-        width: 25px;
+        width: 40px;
         display: flex;
         justify-content: center;
         align-items: center;
         cursor: pointer;
         transition: transform 0.3s ease;
+        margin-right: 1rem;
 
         &:hover {
           transform: scale(1.1);
