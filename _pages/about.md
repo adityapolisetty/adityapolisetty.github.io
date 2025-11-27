@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Financial Economics at Imperial College London. My research focuses on household finance and behavioural finance, with a particular focus on housing markets
+I am a third-year PhD student in Financial Economics at Imperial College London. My research focuses on household finance and behavioural finance, with a particular focus on housing markets. I also 
 
 Working Papers
 ------
-- **On the role of beliefs in nominal anchors in housing**
+- **On the Role of Beliefs in Nominal Anchors in Housing**
   (with Cristian Badarinza, Dimitris Georgarakos, Geoff Kenny, Tarun Ramadorai)
 
 - **On Agency Incentives in Housing**
+- **On Portfolio theory for Venture Capital Investing**
 
 
 Education
