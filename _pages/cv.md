@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Financial Economics**, Imperial College London (ongoing)
+* **Masters in Economics**, University of Warwick, 2019
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Household finance
+* Housing economics
+* Macroeconomics
+* Behavioral finance
+* Financial decision-making
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Pre-doctoral Researcher**, Imperial College London
+  * Department of Economics and Public Policy
+  * Research on household finance and housing markets
 
-Publications
+* **Research Assistant**, King's College London
+  * Focus areas: Macroeconomics, household finance, and financial stability
+
+Working Papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: adpoli6@icloud.com
+* Email: adpolisetty23@imperial.ac.uk
+* LinkedIn: [linkedin.com/in/aditya-polisetty-674a9827](https://www.linkedin.com/in/aditya-polisetty-674a9827/)
+* GitHub: [github.com/adityapolisetty](https://github.com/adityapolisetty)
