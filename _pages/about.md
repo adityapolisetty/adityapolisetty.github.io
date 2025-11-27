@@ -15,7 +15,7 @@ Work in Progress
 - **On the Role of Beliefs in Nominal Anchors in Housing**
   (with Cristian Badarinza, Dimitris Georgarakos, Geoff Kenny and Tarun Ramadorai)
 
-- **On Agency Incentives in Housing**
+- **On Cyclical Agency Incentives in Housing Markets**
 <!-- - **On Portfolio Choice in Venture Capital Investing** (with Ramana Nanda and Savitar Sundaresan) -->
 
 Teaching
