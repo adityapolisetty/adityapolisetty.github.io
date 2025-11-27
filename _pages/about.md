@@ -18,18 +18,6 @@ My research focuses on understanding how households make financial decisions, pa
 - Agency relationships in real estate markets
 - Macroeconomic implications of household financial behavior
 
-Education
-======
-- **PhD in Financial Economics**, Imperial College London (ongoing)
-- **Masters in Economics**, University of Warwick, 2019
-
-Experience
-======
-- **Pre-doctoral Researcher**, Imperial College London
-  - Department of Economics and Public Policy
-- **Research Assistant**, King's College London
-  - Focus areas: Macroeconomics, household finance, and financial stability
-
 Working Papers
 ======
 - **On the role of beliefs in nominal anchors in housing**
@@ -37,6 +25,9 @@ Working Papers
 
 - **On Agency Incentives in Housing**
 
-Contact
+
+Education
 ======
-Feel free to reach out via email at adpoli6@icloud.com or adpolisetty23@imperial.ac.uk.
+- **PhD in Financial Economics**, Imperial College London (ongoing)
+- **Masters in Economics**, University of Warwick, 2019
+
