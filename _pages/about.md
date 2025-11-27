@@ -10,7 +10,7 @@ redirect_from:
 I am a third-year PhD student in Financial Economics at Imperial College London. My research interests are in household finance, housing, and macroeconomics, where I investigate behavioral patterns in financial decision-making and their broader economic implications.
 
 Research Interests
-======
+------
 My research focuses on understanding how households make financial decisions, particularly in the context of housing markets. I am interested in exploring:
 - Behavioral patterns in household finance
 - Housing market dynamics and nominal anchors
@@ -19,7 +19,7 @@ My research focuses on understanding how households make financial decisions, pa
 - Macroeconomic implications of household financial behavior
 
 Working Papers
-======
+------
 - **On the role of beliefs in nominal anchors in housing**
   (with Cristian Badarinza, Dimitris Georgarakos, Geoff Kenny, Tarun Ramadorai)
 
@@ -27,7 +27,7 @@ Working Papers
 
 
 Education
-======
+------
 - **PhD in Financial Economics**, Imperial College London (ongoing)
 - **Masters in Economics**, University of Warwick, 2019
 
