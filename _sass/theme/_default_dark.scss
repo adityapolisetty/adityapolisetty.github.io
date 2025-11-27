@@ -51,4 +51,17 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
+
+    /* Make social icons visible on dark background */
+    .social-icons {
+        .fa, .fab, .fas, .ai {
+            color: #ffffff !important;
+        }
+
+        .fa-github,
+        .fa-github-alt,
+        .fa-github-square {
+            color: #ffffff !important;
+        }
+    }
 }
