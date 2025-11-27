@@ -16,7 +16,7 @@ Work in Progress
   (with Cristian Badarinza, Dimitris Georgarakos, Geoff Kenny and Tarun Ramadorai)
 
 - **On Agency Incentives in Housing**
-- **On Portfolio Choice in Venture Capital Investing** (with Ramana Nanda and Savitar Sundaresan)
+<!-- - **On Portfolio Choice in Venture Capital Investing** (with Ramana Nanda and Savitar Sundaresan) -->
 
 Teaching
 ------
