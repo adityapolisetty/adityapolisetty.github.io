@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Financial Economics at Imperial College London. My research is currently focussed on household finance and behavioural finance, with a particular focus on housing markets. I am generally very interested in understanding human behaviour and .
+I am a third-year PhD student in Financial Economics at Imperial College London. My research is currently focussed on household finance and behavioural finance, with a particular focus on housing markets.
 
 Work in Progress
 ------
